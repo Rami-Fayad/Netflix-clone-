@@ -3,5 +3,4 @@
 React: Building the user interface and component structure.
 
 Vite: Lightning-fast development and build tool.
-
 Firebase: Authentication, database management, and hosting.
