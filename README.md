@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack
+<div> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="40"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="40"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" height="40"/> </div>
+React: Building the user interface and component structure.
+Vite: Lightning-fast development and build tool.
+Firebase: Authentication, database management, and hosting.
