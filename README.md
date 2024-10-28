@@ -40,6 +40,7 @@ bash
 Copy code
 npm run dev
 Open your browser to http://localhost:3000 to view the app.
+
 🌍 Deployment
 Deploying on Firebase Hosting
 Build the project:
