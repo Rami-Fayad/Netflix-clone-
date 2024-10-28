@@ -1,7 +1,8 @@
 Netflix Clone Project 🎬
 A Netflix-inspired streaming web app built with React, Vite, and Firebase, featuring user authentication, data management, and a responsive UI. Deployed on Firebase Hosting for fast and secure access!
 
-![Project Demo](src/assets/dem.gif)
+![Project Demo]
+('src/assets/dem.gif')
 
 
 🔥 Features
